@@ -7,7 +7,7 @@ In this lab, we will be practicing with query selectors and the `<form>` HTML el
 Topics:
 
 - HTML.
-- Query selectors.
+- [Query selectors.](https://www.w3schools.com/jsref/met_document_queryselector.asp)
 - `<form>` element.
 
 ## Achieving
