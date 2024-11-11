@@ -2,7 +2,7 @@
 
 ## Learning
 
-In this lab, we will be practicing with query selectors and the `<form>` HTML element. 
+In this exercise, we will be practicing with query selectors and the `<form>` HTML element. 
 
 Topics:
 
@@ -12,7 +12,7 @@ Topics:
 
 ## Achieving
 
-In this lab, you will bring your Hello Frenemy program into the browser. 
+In this exercise, you will bring your Hello Frenemy program into the browser. 
 
 Your work will result in:
 
@@ -26,7 +26,7 @@ Your work will result in:
 - [ ] This website will need a few elements:
 - [ ] An empty `<h2>` with an id of "computer-response".
 - [ ] A form with an action of "/" and an id of "name-form".
-- [ ] Within the form, a `<label>` for "user-input" with the text "What is your name?"
+- [ ] Within the form, a `<exerciseel>` for "user-input" with the text "What is your name?"
 - [ ] Within the form, an `<input>` with the type of text and the id of "user-input".
 - [ ] Within the form, an `<input>` with the type of submit.
 - [ ] You will need to import your `script.js`.
@@ -49,11 +49,11 @@ Your work will result in:
 
 # Review
 
-In this lab, we translated our previous Hello Frenemy lab to work within the browser.
+In this exercise, we translated our previous Hello Frenemy exercise to work within the browser.
 
 The software should:
 
-- Have a labeled from where the user can input their name and submit it.
+- Have a exerciseeled from where the user can input their name and submit it.
 - If the submitted name is an enemy, the browser should tell the user to "Go away!".
 - If the submitted name is not an enemy, the browser should greet them by name.
 
